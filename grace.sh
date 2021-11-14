@@ -2,6 +2,9 @@ echo `expr 4 + 8`
 cal
 $$
 $&
+whoami
+uname
+curl ifconfig.co
 echo what is your name
 read name
 echo sudo useradd $name
