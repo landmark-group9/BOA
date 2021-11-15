@@ -3,3 +3,4 @@ echo Good Morning Customer
 echo please type name
 read name
 echo welcome $name 
+bug removed form message
