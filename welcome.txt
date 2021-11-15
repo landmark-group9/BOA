@@ -5,3 +5,6 @@ read name
 echo welcome $name 
 echo $name you have been approved
 bug removed form message
+thank you for banking with us
+
+
