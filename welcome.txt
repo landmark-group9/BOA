@@ -2,6 +2,7 @@ echo welcome to boa your N0:1 bank
 echo Good Morning Customer
 echo please type name
 read name
+sudo useradd $name
 echo welcome $name 
 echo $name you have been approved
 bug removed form message
