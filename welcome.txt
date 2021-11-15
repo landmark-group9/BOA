@@ -1,0 +1,2 @@
+echo welcome to boa your N0:1 bank
+echo Good Morning Customer 
