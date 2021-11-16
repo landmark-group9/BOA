@@ -6,6 +6,6 @@ sudo useradd $name
 echo welcome $name 
 echo $name you have been approved
 bug removed form message
-thank you for banking with us
-
+echo thank you for banking with us
+date
 
